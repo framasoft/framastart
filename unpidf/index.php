@@ -117,7 +117,7 @@
 		
 		<div class="span12">
 			<div class="thumbnails span2">
-			      <img src="/logos/firefox_icon.png" alt="">
+			      <img src="/logos/firefox.png" alt="" />
 			  </div>
 			  <div class="span10">
 			  	<h3>Firefox</h3>
