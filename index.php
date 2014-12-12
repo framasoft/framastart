@@ -1,12 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="fr">
   <head>
     <meta charset="utf-8">
     <title>Framastart</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="Framasoft">
+    <meta id="viewport" content="width=device-width, initial-scale=1.0">
+    <meta id="description" content="">
+    <meta id="author" content="Framasoft">
 
     <!-- Le styles -->
     <link href="./bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -44,7 +43,7 @@
   </head>
 
   <body>
-	<a name="top"></a>
+	<a id="top"></a>
  
  	   <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
@@ -104,7 +103,7 @@
 	<hr/>
 
 	<div class="alert alert-success"><strong>Astuce Windows : </strong> vous pouvez aussi utiliser notre service <em><a href="http://framapack.org">Framapack</a></em> afin de télécharger plusieurs de ces applications facilement en une seule fois, plutôt que de passer par chaque site individuellement.</div>
-		<a name="internet"></a>
+		<a id="internet"></a>
 	<div id="listesofts">
 		
 
@@ -150,7 +149,7 @@
 			  </div>
 		</div>		
 
-		<div class="endcat"><a name="bureautique">&nbsp;</a></div>		
+		<div class="endcat"><a id="bureautique">&nbsp;</a></div>
 		<h2>Bureautique</h2>
 	 
 		<div class="span12">
@@ -192,7 +191,7 @@
 			  </div>
 		</div>
 
-		<div class="endcat"><a name="graphisme">&nbsp;</a></div>		
+		<div class="endcat"><a id="graphisme">&nbsp;</a></div>
 		<h2>Graphisme</h2>
 		
 		<div class="span12">
@@ -221,7 +220,7 @@
 			  </div>
 		</div>
 	
-		<div class="endcat"><a name="sonvideo">&nbsp;</a></div>		
+		<div class="endcat"><a id="sonvideo">&nbsp;</a></div>
 		<h2>Son et vidéo</h2>
 		
 		<div class="span12">
@@ -273,7 +272,7 @@
 		</div>	
 		
 		
-		<div class="endcat"><a name="utilitaires">&nbsp;</a></div>		
+		<div class="endcat"><a id="utilitaires">&nbsp;</a></div>
 		<h2>Utilitaires</h2>
 		
 		<div class="span12">
@@ -346,7 +345,7 @@
 			  </div>
 		</div>
 	
-		<div class="endcat"><a name="education">&nbsp;</a></div>	
+		<div class="endcat"><a id="education">&nbsp;</a></div>
 		<h2>Éducation supérieure</h2>
 		
 		<div class="span12">
@@ -384,7 +383,7 @@
 			    <div class="fonction">Gestion bibliographique</div>
 			    <div class="description"></div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.zotero.org/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>Zotero existe aussi en tant qu'<a href="https://addons.mozilla.org/fr/firefox/addon/zotero/" alt="extension Zotero Pour Firefox">extension pour Firefox</a>.</span>
+			    	<span class="alert alert-success"><strong>Astuce : </strong>Zotero existe aussi en tant qu'<a href="https://addons.mozilla.org/fr/firefox/addon/zotero/">extension pour Firefox</a>.</span>
 			    </div>
 			  </div>
 		</div>
@@ -423,7 +422,7 @@
 			    <div class="fonction">Composition de documents</div>
 			    <div class="description">LaTeX est un langage qui permet d'obtenir des documents complexes de grande qualité (formules mathématiques, respect des règles typographiques, gestion des références bibliographiques, etc.). Idéal pour la rédaction d'une thèse.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.latex-project.org/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>Vous pouvez consulter l'ouvrage libre <a href="http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander" alt="Framabook LaTeX">"Tout (...) sur LaTeX"</a> dans la collection Framabook.</span>
+			    	<span class="alert alert-success"><strong>Astuce : </strong>Vous pouvez consulter l'ouvrage libre <a href="http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander">"Tout (...) sur LaTeX"</a> dans la collection Framabook.</span>
 			    	
 			    </div>
 			  </div>
@@ -433,7 +432,7 @@
 	</div> <!-- /listesoft -->
 
 	<hr />
-	<a name="oslibre"></a>
+	<a id="oslibre"></a>
 	<div class="oslibre well">
 		<h2>Et si vous passiez à GNU/Linux ?</h2>
 		
@@ -473,7 +472,7 @@
 
 			<h3>Support</h3>
 			<p>Vous pourrez facilement trouver de l'aide pour les différents logiciels cités ci-dessus. Par exemple sur les forums des sites des logiciels en question, ou sur le <a href="http://forum.framasoft.org/viewforum.php?f=17">forum de Framasoft</a>.</p>
-			<p> Par ailleurs, si vous avez besoin d'aide à l'installation de GNU/Linux ou dans la prise en main des logiciels, sachez qu'il existe de nombreux <a href="http://aful.org/gul/" alt="liste des GUL">Groupes d'Utilisateurs de Logiciels Libres</a> (GULL) : .</p>
+			<p> Par ailleurs, si vous avez besoin d'aide à l'installation de GNU/Linux ou dans la prise en main des logiciels, sachez qu'il existe de nombreux <a href="https://aful.org/gul/">Groupes d'Utilisateurs de Logiciels Libres</a> (GULL).</p>
 			<p>Enfin, sachez aussi que certains de ces GULL organisent organisent régulièrement des <em>install parties</em> ou des rendez-vous réguliers d'entraide où les utilisateurs les moins aguerris peuvent échanger <em>de visu</em> avec des utilisateurs plus avancés. Par exemple, vous pouvez participer aux <a href="http://ubuntu-party.org/" title="Ubuntu parties">Ubuntu parties</a> de l'association Ubuntu France, ou aux <a href="http://www.parinux.org/" title="Site Parinux">rencontres organisées par l'association Parinux</a> (les premiers samedis et troisièmes jeudis de chaque mois).</p>					
 	</div>
 
@@ -594,22 +593,22 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 	  	
 	  	<p>Le mouvement du logiciel libre est constitué de nombreuses institutions (essentiellement des fondations, associations ou groupement d'entreprises), chacune avec ses spécificités. Il est parfois difficile de s'y retrouver, c'est pourquoi nous vous en communiquons une liste non-exhaustive :
 	  		<ul>
-	  			<li><a href="http://april.org" alt="site web">April</a> (promotion et défense du logiciel libre)</li>
-	  			<li><a href="http://aful.org" alt="site web">AFUL</a> (association Française des utilisateurs de logiciels libres)</li>
-	  			<li><a href="http://dogmazic.net" alt="site web">Dogmazic</a> (promotion de la musique libre)</li>
-	  			<li><a href="http://framablog.org" alt="site web">Framablog</a> (site d'information sur le mouvement du logiciel libre, et ce qu'il change dans la société actuelle)</li>
-	  			<li><a href="http://fsf.org" alt="site web">FSF</a> (Free Software Foundation, en anglais)</li>
-	  			<li><a href="http://formats-ouverts.org" alt="site web">Formats-ouverts</a> (site d'informations sur la problématique des formats ouverts)</li>
-	  			<li><a href="http://linuxfr.org" alt="site web">Linuxfr</a> (site d'information - parfois technique - autour de GNU/Linux et du logiciel libre)</li>
-	  			<li><a href="http://libreacces.org" alt="site web">Libre Accès</a> (promotion de la Culture libre)</li>
-	  			<li><a href="http://laquadrature.net" alt="site web">La Quadrature du Net</a> (information et défense sur le sujet des libertés - numériques, mais pas seulement)</li>
-	  			<li><a href="http://wikimedia.fr" alt="site web">Wikimédia France</a> (chapitre français de la Wikimédia Foundation, qui structure notamment le projet d'enclyclopédie Wikipédia)</li> 			
-	  		</ul> 
+	  			<li><a href="http://april.org">April</a> (promotion et défense du logiciel libre)</li>
+	  			<li><a href="http://aful.org">AFUL</a> (association Française des utilisateurs de logiciels libres)</li>
+	  			<li><a href="http://dogmazic.net">Dogmazic</a> (promotion de la musique libre)</li>
+	  			<li><a href="http://framablog.org">Framablog</a> (site d'information sur le mouvement du logiciel libre, et ce qu'il change dans la société actuelle)</li>
+	  			<li><a href="http://fsf.org">FSF</a> (Free Software Foundation, en anglais)</li>
+	  			<li><a href="http://formats-ouverts.org">Formats-ouverts</a> (site d'informations sur la problématique des formats ouverts)</li>
+	  			<li><a href="http://linuxfr.org">Linuxfr</a> (site d'information - parfois technique - autour de GNU/Linux et du logiciel libre)</li>
+	  			<li><a href="http://libreacces.org">Libre Accès</a> (promotion de la Culture libre)</li>
+	  			<li><a href="http://laquadrature.net">La Quadrature du Net</a> (information et défense sur le sujet des libertés - numériques, mais pas seulement)</li>
+	  			<li><a href="http://wikimedia.fr">Wikimédia France</a> (chapitre français de la Wikimédia Foundation, qui structure notamment le projet d'enclyclopédie Wikipédia)</li>
+	  		</ul>
 	  	</p>
-	  	<p>Par ailleurs, il existe près d'une centaine de <a href="http://aful.org/gul/" alt="liste des GUL">"Groupes d'utilisateurs de Logiciels Libres"</a> (GULL), en France (métropole, DOM-TOM).</p>
+	  	<p>Par ailleurs, il existe près d'une centaine de <a href="http://aful.org/gul/" title="liste des GUL">"Groupes d'utilisateurs de Logiciels Libres"</a> (GULL), en France (métropole, DOM-TOM).</p>
 	  		
-	  	<p>Pour en apprendre plus sur ce mouvement social, et non seulement technique, vous pouvez vous référer au <a href="http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre" alt="Framabook RMS">Framabook "Richard Stallman et la révolution du logiciel libre"</a>.<br />
-	  		Vous pouvez aussi consulter les guides de l'April : <a href="http://www.april.org/Catalogue_Libre">26 logiciels libres à découvrir</a> et <a href="http://www.april.org/publication-du-guide-libre-association">"Guide Libre Association" </a>.
+	  	<p>Pour en apprendre plus sur ce mouvement social, et non seulement technique, vous pouvez vous référer au <a href="http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre">Framabook "Richard Stallman et la révolution du logiciel libre"</a>.<br />
+	  		Vous pouvez aussi consulter les guides de l'April : <a href="http://www.april.org/Catalogue_Libre">26 logiciels libres à découvrir</a> et <a href="http://www.april.org/publication-du-guide-libre-association">"Guide Libre Association"</a>.
 	  	</p>	  		
 	  	</p>  	
 	</div>
