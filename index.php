@@ -482,7 +482,7 @@
 
 
 
-<!-- ---------------------- Fenêtres modales ------------------------------------------ -->
+<!-- ## Fenêtres modales -->
 
     <div class="modal hide" id="definition">
 	  <div class="modal-header">
@@ -737,7 +737,7 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 	</div>
 
 
-<!-- ---------------------- Fin Fenêtres modales ------------------------------------------ -->
+<!-- ## Fin Fenêtres modales -->
       <hr>
 
       <footer>
@@ -750,9 +750,10 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
     
 
 
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+    <!--
+		JavaScript
+		Placed at the end of the document so the pages load faster
+	-->
     <script src="./bootstrap/js/jquery.js"></script>
     <script src="./bootstrap/js/bootstrap-transition.js"></script>
     <script src="./bootstrap/js/bootstrap-alert.js"></script>
