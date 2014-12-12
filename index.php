@@ -226,7 +226,7 @@
 		
 		<div class="span12">
 			<div class="thumbnails span2">
-			      <img src="./logos/vlc_icon.gif" alt="">
+			      <img src="./logos/vlc_icon.png" alt="" />
 			  </div>
 			  <div class="span10">
 			  	<h3>VLC</h3>
