@@ -75,7 +75,7 @@
 
 
     <div class="container">
-     	<div style="float:right;"><a href="http://unpidf.univ-paris1.fr/"><img src="logos/logo_UNR.jpg" alt="UNR Paris Île-de-France"/></a></div>
+     	<div style="float:right;"><a href="https://unpidf.univ-paris1.fr/"><img src="logos/logo_UNR.jpg" alt="UNR Paris Île-de-France"/></a></div>
       <div class="hero-unit">
  
         <h1>Logiciels libres</h1>
@@ -119,7 +119,7 @@
 			    <div class="fonction">Navigateur web</div>
 			    <div class="description">Rapide, sûr, fiable, extensible... Firefox est tout simplement le meilleur navigateur libre.</div>
 			    <div class="complements">
-			    	<a class="btn btn-success btn-large" href="http://www.mozilla.org/fr/firefox/new/">Site officiel</a>
+			    	<a class="btn btn-success btn-large" href="https://www.mozilla.org/fr/firefox/">Site officiel</a>
 			    </div>
 			  </div>
 		</div>
@@ -132,7 +132,7 @@
 			  	<h3>Thunderbird</h3>
 			    <div class="fonction">Client mail</div>
 			    <div class="description">Le client mail libre par excellence. Thunderbird est une application de messagerie facile à configurer et à personnaliser.</div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.mozilla.org/fr/thunderbird/">Site officiel</a></div>
+			    <div class="complements"><a class="btn btn-success btn-large" href="https://www.mozilla.org/fr/thunderbird/">Site officiel</a></div>
 			  </div>
 		</div>
 	
@@ -144,8 +144,8 @@
 			  	<h3>Pidgin</h3>
 			    <div class="fonction">Messagerie instantanée</div>
 			    <div class="description">Messagerie instantanée (tchat) multiprotocole (compatible MSN, Yahoo!, Google Talk, IRC, etc)</div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.pidgin.im/">Site officiel</a>
-			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://adium.im/">Adium</a></span>
+			    <div class="complements"><a class="btn btn-success btn-large" href="https://www.pidgin.im/">Site officiel</a>
+			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="https://adium.im/">Adium</a></span>
 			    </div>
 			  </div>
 		</div>		
@@ -161,7 +161,7 @@
 			  	<h3>LibreOffice</h3>
 			    <div class="fonction">Suite Bureautique</div>
 			    <div class="description">La suite bureautique qui succède à OpenOffice.org. Traitement de texte, tableur, création de diaporama, etc. : profitez d'une suite complète en un seul logiciel.</div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://fr.libreoffice.org/">Site officiel</a></div>
+			    <div class="complements"><a class="btn btn-success btn-large" href="https://fr.libreoffice.org/">Site officiel</a></div>
 			  </div>
 		</div>
 	
@@ -173,7 +173,7 @@
 			  	<h3>Scribus</h3>
 			    <div class="fonction">Publication Assistée par Ordinateur</div>
 			    <div class="description">Logiciel de P.A.O. avancé, Scribus est idéal pour réaliser un journal ou une plaquette d'informations.</div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.scribus.net/canvas/Scribus">Site officiel</a></div>
+			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.scribus.net/">Site officiel</a></div>
 			  </div>
 		</div>
 	
@@ -185,8 +185,8 @@
 			  	<h3>SumatraPDF</h3>
 			    <div class="fonction">Lecteur PDF</div>
 			    <div class="description">Visualisez rapidement vos fichiers PDF avec ce lecteur PDF très léger et réactif.</div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html">Site officiel</a>
-			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://okular.kde.org/">Okular</a> ou <a href="http://skim-app.sourceforge.net/">Skim</a></span>
+			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.sumatrapdfreader.org/">Site officiel</a>
+			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="https://okular.kde.org/">Okular</a> ou <a href="http://skim-app.sourceforge.net/">Skim</a></span>
 			    	
 			    </div>
 			  </div>
@@ -217,7 +217,7 @@
 			  	<h3>Inkscape</h3>
 			    <div class="fonction">Editeur d'images (vectorielles)</div>
 			    <div class="description">Inkscape est l'outil rêvé pour créer vos logos, bandes dessinées, plans, etc.</div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://inkscape.org/?lang=fr">Site officiel</a></div>
+			    <div class="complements"><a class="btn btn-success btn-large" href="https://inkscape.org/fr/">Site officiel</a></div>
 			  </div>
 		</div>
 	
@@ -232,7 +232,7 @@
 			  	<h3>VLC</h3>
 			    <div class="fonction">Lecteur audio et vidéo</div>
 			    <div class="description">Le 4x4 des lecteurs vidéos. VLC peut lire la quasi-totalité des formats vidéo, sait lire de nombreux formats de sous-titre, etc.</div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.videolan.org/vlc/">Site officiel</a></div>
+			    <div class="complements"><a class="btn btn-success btn-large" href="https://www.videolan.org/vlc/">Site officiel</a></div>
 			  </div>
 		</div>
 	
@@ -285,7 +285,7 @@
 			    <div class="fonction">Compression et décompression de fichiers</div>
 			    <div class="description">Compressez vos fichiers et dossiers afin qu'ils occupent moins d'espace. Peazip sait bien évidemment extraire un grand nombre de fichiers compressés (ZIP, TAR.GZ, ACE, ARJ, CAB, DMG, ISO, LHA, RAR, etc.)</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://peazip.sourceforge.net/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>vous pouvez télécharger <a href="http://sourceforge.net/projects/peazip/files/4.6.1/peazip-plain-4.6.1.WINDOWS.exe/download">la version sans publicité</a>.</span>
+			    	<span class="alert alert-success"><strong>Astuce : </strong>vous pouvez télécharger <a href="http://sourceforge.net/projects/peazip/files/4.6.1/peazip-plain-4.6.1.WINDOWS.exe/download">une version sans publicité</a>.</span>
 			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://www.kekaosx.com/fr/">Keka</a></span>
 
 			    </div>
@@ -301,7 +301,7 @@
 			    <div class="fonction">Editeur de texte</div>
 			    <div class="description">Un éditeur de texte léger mais très puissant pouvant aussi servir comme environnement de développement (C, C++, HTML, PHP, JS, etc)</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://notepad-plus-plus.org/fr/">Site officiel</a>
-			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://projects.gnome.org/gedit/">gEdit</a>.</span>
+			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="https://wiki.gnome.org/Apps/Gedit">gEdit</a>.</span>
 			    </div>
 			  </div>
 		</div>
@@ -313,7 +313,7 @@
 			  <div class="span10">
 			  	<h3>CC PDF Converter</h3>
 			    <div class="fonction">Création de PDF</div>
-			    <div class="description">Transformez n'importe quel document en fichier PDF. CC PDF Converter ajoute une imprimante virtuelle à votre système Windows. Tout ce que vous y "imprimerez" sortira sous la forme d'un document PDF. Il permet également d'ajouter une licence <a href="http://fr.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> à votre document.</div>
+			    <div class="description">Transformez n'importe quel document en fichier PDF. CC PDF Converter ajoute une imprimante virtuelle à votre système Windows. Tout ce que vous y "imprimerez" sortira sous la forme d'un document PDF. Il permet également d'ajouter une licence <a href="https://fr.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> à votre document.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.cogniview.com/cc-free-pdf-converter/">Site officiel</a>
 			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Pas d'alternative grand public dans le monde libre, malheureusement.</span>
 			    </div>
@@ -342,7 +342,7 @@
 			  	<h3>Filezilla</h3>
 			    <div class="fonction">Client FTP</div>
 			    <div class="description">Envoyez et récupérez des fichiers sur des machines distantes.</div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://filezilla-project.org/">Site officiel</a></div>
+			    <div class="complements"><a class="btn btn-success btn-large" href="https://filezilla-project.org/">Site officiel</a></div>
 			  </div>
 		</div>
 	
@@ -383,7 +383,7 @@
 			  	<h3>Zotero</h3>
 			    <div class="fonction">Gestion bibliographique</div>
 			    <div class="description"></div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.zotero.org/">Site officiel</a>
+			    <div class="complements"><a class="btn btn-success btn-large" href="https://www.zotero.org/">Site officiel</a>
 			    	<span class="alert alert-success"><strong>Astuce : </strong>Zotero existe aussi en tant qu'<a href="https://addons.mozilla.org/fr/firefox/addon/zotero/" alt="extension Zotero Pour Firefox">extension pour Firefox</a>.</span>
 			    </div>
 			  </div>
@@ -409,7 +409,7 @@
 			  	<h3>SciLab</h3>
 			    <div class="fonction">Calcul numérique avancé</div>
 			    <div class="description">Scilab est un logiciel open source gratuit de calcul numérique qui fournit un puissant environnement de développement pour les applications scientifiques et l’ingénierie.</div>
-			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.scilab.org/fr/">Site officiel</a></div>
+			    <div class="complements"><a class="btn btn-success btn-large" href="https://www.scilab.org/fr/">Site officiel</a></div>
 			  </div>
 		</div>
 
@@ -501,10 +501,10 @@
 			<li>la liberté d'améliorer le programme, et de diffuser vos améliorations au public, de façon à ce que l'ensemble de la communauté en tire avantage (liberté 3). L'accès au code source est une condition pour tout ceci  </li>
 		</ul>
 		<p>Avec un logiciel libre, vous avez le plat, la recette, le droit de redistribuer (ou de vendre) le plat, la recette, et même de la modifier.</p>	  	  
-	    <p><small><em>Texte issu du <a href="http://www.april.org/articles/intro/ll.html">site de l'April</a>, licence LAL version 1.3 ou ultérieure, CC-BY-SA version 2.0 ou ultérieure et GNU FDL version 1.3 ou ultérieure.</em></small></p>
+	    <p><small><em>Texte issu du <a href="https://www.april.org/articles/intro/ll.html">site de l'April</a>, licence LAL version 1.3 ou ultérieure, CC-BY-SA version 2.0 ou ultérieure et GNU FDL version 1.3 ou ultérieure.</em></small></p>
 	  </div>
 	  <div class="modal-footer">
-	    <a href="http://fr.wikipedia.org/wiki/Logiciel_libre" class="btn btn-primary">Définition sur Wikipédia</a>
+	    <a href="https://fr.wikipedia.org/wiki/Logiciel_libre" class="btn btn-primary">Définition sur Wikipédia</a>
 	    <a href="#" class="btn" data-dismiss="modal">Fermer</a>
 	  </div>
 	</div>
@@ -563,15 +563,15 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 	    <h3>A propos</h3>
 	  </div>
 	  <div class="modal-body">
-	  	<p>Cette sélection de logiciels libres vous est proposée, sur l'impulsion de <a href="http://unpidf.univ-paris1.fr/">l'Université Numérique Régionale Paris Île-de-France</a> en partenariat avec l'association <a href="http://framasoft.org">Framasoft</a>.</p>
+	  	<p>Cette sélection de logiciels libres vous est proposée, sur l'impulsion de <a href="https://unpidf.univ-paris1.fr/">l'Université Numérique Régionale Paris Île-de-France</a> en partenariat avec l'association <a href="http://framasoft.org">Framasoft</a>.</p>
 Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web collaboratifs à géométrie variable dont le dénominateur commun est le logiciel libre, sa culture et son état d'esprit. Il vise à diffuser le logiciel libre et à le faire connaître auprès du plus large public.</p>
 <p>Lieu d'orientation, d'informations, d'actualités, d'échanges et de projets, Framasoft, de par la diversité et le dynamisme de son réseau, est aujourd'hui l'une des principales portes d'entrée francophones du logiciel libre. Sa communauté d'utilisateurs est créatrice de ressources et apporte assistance et conseil à ceux qui découvrent et font leur premiers pas avec les logiciels libres. Elle accompagne ceux qui désirent remplacer leurs logiciels propriétaires par des logiciels libres en attachant une attention toute particulière au processus de migration du système d'exploitation Microsoft Windows vers GNU/Linux.</p>
 <p>Tout ce qui est produit est placé sous licence libre, favorisant ainsi la participation et garantissant que le travail effectué demeurera sans appropriation au bénéfice de tous.</p>
-<p><small><em>Texte issu de  <a href="http://fr.wikipedia.org/wiki/Framasoft">l'article Framasoft de Wikipédia</a>,  sous licence Creative Commons paternité partage à l’identique (CC BY-SA)</em></small></p>
+<p><small><em>Texte issu de  <a href="https://fr.wikipedia.org/wiki/Framasoft">l'article Framasoft de Wikipédia</a>,  sous licence Creative Commons paternité partage à l’identique (CC BY-SA)</em></small></p>
 	</div>
 	  <div class="modal-footer">
 	   	<a href="http://framasoft.org" class="btn btn-primary">Site Framasoft</a>
-	   	<a href="http://fr.wikipedia.org/wiki/Framasoft" class="btn btn-primary">Framasoft sur Wikipédia</a>
+	   	<a href="https://fr.wikipedia.org/wiki/Framasoft" class="btn btn-primary">Framasoft sur Wikipédia</a>
 	    <a href="#" class="btn" data-dismiss="modal">Fermer</a>
 	  </div>
 	</div>
@@ -594,22 +594,22 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 	  	
 	  	<p>Le mouvement du logiciel libre est constitué de nombreuses institutions (essentiellement des fondations, associations ou groupement d'entreprises), chacune avec ses spécificités. Il est parfois difficile de s'y retrouver, c'est pourquoi nous vous en communiquons une liste non-exhaustive :
 	  		<ul>
-	  			<li><a href="http://april.org" alt="site web">April</a> (promotion et défense du logiciel libre)</li>
-	  			<li><a href="http://aful.org" alt="site web">AFUL</a> (association Française des utilisateurs de logiciels libres)</li>
+	  			<li><a href="https://april.org" alt="site web">April</a> (promotion et défense du logiciel libre)</li>
+	  			<li><a href="https://aful.org" alt="site web">AFUL</a> (association Française des utilisateurs de logiciels libres)</li>
 	  			<li><a href="http://dogmazic.net" alt="site web">Dogmazic</a> (promotion de la musique libre)</li>
 	  			<li><a href="http://framablog.org" alt="site web">Framablog</a> (site d'information sur le mouvement du logiciel libre, et ce qu'il change dans la société actuelle)</li>
-	  			<li><a href="http://fsf.org" alt="site web">FSF</a> (Free Software Foundation, en anglais)</li>
+	  			<li><a href="https://fsf.org" alt="site web">FSF</a> (Free Software Foundation, en anglais)</li>
 	  			<li><a href="http://formats-ouverts.org" alt="site web">Formats-ouverts</a> (site d'informations sur la problématique des formats ouverts)</li>
 	  			<li><a href="http://linuxfr.org" alt="site web">Linuxfr</a> (site d'information - parfois technique - autour de GNU/Linux et du logiciel libre)</li>
 	  			<li><a href="http://libreacces.org" alt="site web">Libre Accès</a> (promotion de la Culture libre)</li>
-	  			<li><a href="http://laquadrature.net" alt="site web">La Quadrature du Net</a> (information et défense sur le sujet des libertés - numériques, mais pas seulement)</li>
-	  			<li><a href="http://wikimedia.fr" alt="site web">Wikimédia France</a> (chapitre français de la Wikimédia Foundation, qui structure notamment le projet d'enclyclopédie Wikipédia)</li> 			
+	  			<li><a href="https://laquadrature.net/fr" alt="site web">La Quadrature du Net</a> (information et défense sur le sujet des libertés - numériques, mais pas seulement)</li>
+	  			<li><a href="https://wikimedia.fr" alt="site web">Wikimédia France</a> (chapitre français de la Wikimédia Foundation, qui structure notamment le projet d'enclyclopédie Wikipédia)</li> 			
 	  		</ul> 
 	  	</p>
-	  	<p>Par ailleurs, il existe près d'une centaine de <a href="http://aful.org/gul/" alt="liste des GUL">"Groupes d'utilisateurs de Logiciels Libres"</a> (GULL), en France (métropole, DOM-TOM).</p>
+	  	<p>Par ailleurs, il existe près d'une centaine de <a href="https://aful.org/gul/" alt="liste des GUL">"Groupes d'utilisateurs de Logiciels Libres"</a> (GULL), en France (métropole, DOM-TOM).</p>
 	  		
 	  	<p>Pour en apprendre plus sur ce mouvement social, et non seulement technique, vous pouvez vous référer au <a href="http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre" alt="Framabook RMS">Framabook "Richard Stallman et la révolution du logiciel libre"</a>.<br />
-	  		Vous pouvez aussi consulter les guides de l'April : <a href="http://www.april.org/Catalogue_Libre">26 logiciels libres à découvrir</a> et <a href="http://www.april.org/publication-du-guide-libre-association">"Guide Libre Association" </a>.
+	  		Vous pouvez aussi consulter les guides de l'April : <a href="https://www.april.org/Catalogue_Libre">26 logiciels libres à découvrir</a> et <a href="https://www.april.org/publication-du-guide-libre-association">"Guide Libre Association" </a>.
 	  	</p>	  		
 	  	</p>  	
 	</div>
@@ -627,7 +627,7 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 		<p>Pour toute question concernant Framastart, vous pouvez envoyer utiliser le site <strong><a href="http://contact.framasoft.org">http://contact.framasoft.org</a></strong></p>
 		<p>&nbsp;</p>
 		<p>Framastart est un site web référençant les logiciels libres les plus courants.<br/>
-		<p>Framastart est placé sous licence libre <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA 3.0</a></p>
+		<p>Framastart est placé sous licence libre <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons BY-SA 3.0</a></p>
 		<p>Framastart utilise le framework libre Boostrap ainsi que la librairie jQuery.</p>
 				</div>
 		<div class="modal-footer">
