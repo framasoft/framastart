@@ -85,7 +85,7 @@
 
       <div class="row">
         <div class="span4">
-          <h2> Qu'est-ce qu'un logiciel libre ?</h2>
+          <h2>Qu'est-ce qu'un logiciel libre ?</h2>
            <p>Un logiciel est dit "libre" lorsqu'il vous permet d'étudier son fonctionnement, vous autorise à apporter des améliorations, et encourage sa diffusion par le partage des copies.</p>
           <p><a class="btn" data-toggle="modal" href="#definition" >En savoir plus &raquo;</a></p>
         </div>
@@ -130,8 +130,8 @@
 			  </div>
 			  <div class="span10">
 			  	<h3>Thunderbird</h3>
-			    <div class="fonction">Client mail</div>
-			    <div class="description">Le client mail libre par excellence. Thunderbird est une application de messagerie facile à configurer et à personnaliser.</div>
+			    <div class="fonction">Client email</div>
+			    <div class="description">Le client email libre par excellence. Thunderbird est une application de messagerie facile à configurer et à personnaliser.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.mozilla.org/fr/thunderbird/">Site officiel</a></div>
 			  </div>
 		</div>
@@ -143,7 +143,7 @@
 			  <div class="span10">
 			  	<h3>Pidgin</h3>
 			    <div class="fonction">Messagerie instantanée</div>
-			    <div class="description">Messagerie instantanée (tchat) multiprotocole (compatible MSN, Yahoo!, Google Talk, IRC, etc)</div>
+			    <div class="description">Messagerie instantanée (tchat) multiprotocole (compatible MSN, Yahoo!, Google Talk, IRC, etc).</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.pidgin.im/">Site officiel</a>
 			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://adium.im/">Adium</a></span>
 			    </div>
@@ -159,7 +159,7 @@
 			  </div>
 			  <div class="span10">
 			  	<h3>LibreOffice</h3>
-			    <div class="fonction">Suite Bureautique</div>
+			    <div class="fonction">Suite bureautique</div>
 			    <div class="description">La suite bureautique qui succède à OpenOffice.org. Traitement de texte, tableur, création de diaporama, etc. : profitez d'une suite complète en un seul logiciel.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://fr.libreoffice.org/">Site officiel</a></div>
 			  </div>
@@ -200,9 +200,9 @@
 			      <img src="./logos/Gimp.png" alt="">
 			  </div>
 			  <div class="span10">
-			  	<h3>Gimp</h3>
+			  	<h3>GIMP</h3>
 			    <div class="fonction">Editeur d'images (bitmap)</div>
-			    <div class="description">Le roi des éditeurs d’images du monde du Libre. Retouchez facilement vos photos, faites vos propres montages, etc.</div>
+			    <div class="description">Le roi des éditeurs d’images bitmaps du monde du libre. Retouchez facilement vos photos, faites vos propres montages, etc.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.gimp.org/">Site officiel</a>
 			    	<span class="alert alert-info">Vous pouvez aussi utiliser <a href="http://pinta-project.com/">Pinta</a>, beaucoup plus limité, mais plus simple à prendre en main.</span>	
 			    </div>
@@ -229,7 +229,7 @@
 			      <img src="./logos/vlc_icon.gif" alt="">
 			  </div>
 			  <div class="span10">
-			  	<h3>VLC</h3>
+			  	<h3>VLC media player</h3>
 			    <div class="fonction">Lecteur audio et vidéo</div>
 			    <div class="description">Le 4x4 des lecteurs vidéos. VLC peut lire la quasi-totalité des formats vidéo, sait lire de nombreux formats de sous-titre, etc.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.videolan.org/vlc/">Site officiel</a></div>
@@ -299,7 +299,7 @@
 			  <div class="span10">
 			  	<h3>Notepad++</h3>
 			    <div class="fonction">Editeur de texte</div>
-			    <div class="description">Un éditeur de texte léger mais très puissant pouvant aussi servir comme environnement de développement (C, C++, HTML, PHP, JS, etc)</div>
+			    <div class="description">Un éditeur de texte simple et convivial pouvant aussi servir comme environnement de développement léger (C, C++, HTML, PHP, JS, etc).</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://notepad-plus-plus.org/fr/">Site officiel</a>
 			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://projects.gnome.org/gedit/">gEdit</a>.</span>
 			    </div>
@@ -408,7 +408,7 @@
 			  <div class="span10">
 			  	<h3>SciLab</h3>
 			    <div class="fonction">Calcul numérique avancé</div>
-			    <div class="description">Scilab est un logiciel open source gratuit de calcul numérique qui fournit un puissant environnement de développement pour les applications scientifiques et l’ingénierie.</div>
+			    <div class="description">Scilab est un logiciel libre gratuit de calcul numérique qui fournit un puissant environnement de développement pour les applications scientifiques et l’ingénierie.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.scilab.org/fr/">Site officiel</a></div>
 			  </div>
 		</div>
@@ -421,7 +421,7 @@
 			  <div class="span10">
 			  	<h3>LaTeX</h3>
 			    <div class="fonction">Composition de documents</div>
-			    <div class="description">LaTeX est un langage qui permet d'obtenir des documents complexes de grande qualité (formules mathématiques, respect des règles typographiques, gestion des références bibliographiques, etc.). Idéal pour la rédaction d'une thèse.</div>
+			    <div class="description">LaTeX est un langage qui permet d'obtenir des documents complexes de grande qualité (formules mathématiques, respect des règles typographiques, gestion des références bibliographiques, etc). Idéal pour la rédaction d'une thèse.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.latex-project.org/">Site officiel</a>
 			    	<span class="alert alert-success"><strong>Astuce : </strong>Vous pouvez consulter l'ouvrage libre <a href="http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander" alt="Framabook LaTeX">"Tout (...) sur LaTeX"</a> dans la collection Framabook.</span>
 			    	
@@ -493,7 +493,7 @@
 		<p>Imaginez que vous vous trouviez dans un restaurant et que vous mangiez un excellent repas. Peut-être aurez vous l'envie de le cuisiner le lendemain chez vous pour vos amis ?</p>
 		<p>C'est impossible, car vous n'avez pas la recette du plat. Vous pouvez toujours le manger dans le restaurant, mais même si vous connaissez le goût, vous ne savez pas comment le reproduire.</p>
 		<p>En informatique, c'est la même chose avec un logiciel. La plupart des logiciels sont distribués sans leur recette, et il est interdit d'essayer de comprendre leur fonctionnement (on parle dans ce cas d'un logiciel propriétaire). Il est interdit de les partager avec vos amis, et il est interdit d'essayer de les modifier pour les adapter à vos besoins.</p>
-		<p>En revanche, un <i>logiciel libre</i> vous garantit plusieurs libertés&nbsp;:</p>
+		<p>En revanche, un <i>logiciel libre</i> vous garantit plusieurs libertés :</p>
 		<ul>
 			<li>la liberté d'utiliser le logiciel, pour quelque usage que ce soit (liberté 0)</li>
 			<li>la liberté d'étudier le fonctionnement du programme, et de l'adapter à vos propres besoins (liberté 1). L'accès au code source est une condition pour tout ceci  </li>
@@ -515,9 +515,8 @@
 	    <h3>Avantages du logiciel libre</h3>
 	  </div>
 	  <div class="modal-body">
-	  	<p> Les logiciels libres, par le fait qu'ils mettent à disposition leur code source (= leur "recette de cuisine"), peuvent avoir de nombreux avantages :
+	  	<p>Les logiciels libres, par le fait qu'ils mettent à disposition leur code source (= leur "recette de cuisine"), peuvent avoir de nombreux avantages :
 		<ul>
-
 			<li><strong>Sécurité</strong> : le code pouvant être relu par tous, les failles peuvent être découvertes, et corrigées, plus vite.</li>
 			<li><strong>Interopérabilité</strong> : les logiciels libres s'appuient sur des standards ouverts, ce qui permet par exemple à un logiciel de pouvoir facilement ouvrir un fichier d'un autre logiciel, ou d'enregistrer vos données dans différents formats.</li>
 			<li><strong>Pérennité</strong> : la "recette" du logiciel étant publique, il est bien plus simple de pouvoir ouvrir à nouveau vos fichiers dans plusieurs années, ou de faire une nouvelle version du logiciel fonctionnanat sur de nouvelles plateformes.</li>
@@ -560,7 +559,7 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
     <div class="modal hide fade" id="about">
 	  <div class="modal-header">
 	    <button type="button" class="close" data-dismiss="modal">×</button>
-	    <h3>A propos</h3>
+	    <h3>À propos</h3>
 	  </div>
 	  <div class="modal-body">
 	  	<p>Cette sélection de logiciels libres vous est proposée, sur l'impulsion de <a href="http://unpidf.univ-paris1.fr/">l'Université Numérique Régionale Paris Île-de-France</a> en partenariat avec l'association <a href="http://framasoft.org">Framasoft</a>.</p>
@@ -595,16 +594,16 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 	  	<p>Le mouvement du logiciel libre est constitué de nombreuses institutions (essentiellement des fondations, associations ou groupement d'entreprises), chacune avec ses spécificités. Il est parfois difficile de s'y retrouver, c'est pourquoi nous vous en communiquons une liste non-exhaustive :
 	  		<ul>
 	  			<li><a href="http://april.org" alt="site web">April</a> (promotion et défense du logiciel libre)</li>
-	  			<li><a href="http://aful.org" alt="site web">AFUL</a> (association Française des utilisateurs de logiciels libres)</li>
+	  			<li><a href="http://aful.org" alt="site web">AFUL</a> (association française des utilisateurs de logiciels libres)</li>
 	  			<li><a href="http://dogmazic.net" alt="site web">Dogmazic</a> (promotion de la musique libre)</li>
 	  			<li><a href="http://framablog.org" alt="site web">Framablog</a> (site d'information sur le mouvement du logiciel libre, et ce qu'il change dans la société actuelle)</li>
-	  			<li><a href="http://fsf.org" alt="site web">FSF</a> (Free Software Foundation, en anglais)</li>
+	  			<li><a href="http://fsf.org" alt="site web">FSF</a> (Free Software Foundation)</li>
 	  			<li><a href="http://formats-ouverts.org" alt="site web">Formats-ouverts</a> (site d'informations sur la problématique des formats ouverts)</li>
-	  			<li><a href="http://linuxfr.org" alt="site web">Linuxfr</a> (site d'information - parfois technique - autour de GNU/Linux et du logiciel libre)</li>
+	  			<li><a href="http://linuxfr.org" alt="site web">LinuxFr</a> (site d'information - parfois technique - autour de GNU/Linux et du logiciel libre)</li>
 	  			<li><a href="http://libreacces.org" alt="site web">Libre Accès</a> (promotion de la Culture libre)</li>
 	  			<li><a href="http://laquadrature.net" alt="site web">La Quadrature du Net</a> (information et défense sur le sujet des libertés - numériques, mais pas seulement)</li>
-	  			<li><a href="http://wikimedia.fr" alt="site web">Wikimédia France</a> (chapitre français de la Wikimédia Foundation, qui structure notamment le projet d'enclyclopédie Wikipédia)</li> 			
-	  		</ul> 
+	  			<li><a href="http://wikimedia.fr" alt="site web">Wikimédia France</a> (chapitre français de la Wikimédia Foundation, qui structure notamment le projet d'encyclopédie Wikipédia)</li>
+	  		</ul>
 	  	</p>
 	  	<p>Par ailleurs, il existe près d'une centaine de <a href="http://aful.org/gul/" alt="liste des GUL">"Groupes d'utilisateurs de Logiciels Libres"</a> (GULL), en France (métropole, DOM-TOM).</p>
 	  		
@@ -643,7 +642,7 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 		<div class="modal-body">
 
 		
-			<h2>Editeur</h2>
+			<h2>Éditeur</h2>
 			<h3>Framasoft</h3>
 			<p>Association loi 1901 déclarée en sous-préfecture d’Arles le 2
 			décembre 2003 sous le n° 0132007842 </p>
@@ -663,7 +662,7 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 			00045 </p>
 			<p>Code APE 6202A - N° TVA : FR 22 424 761 419</p>
 			<p>Siège social : 2 rue Kellermann 59100 Roubaix - France.</p>
-			<h1>INFORMATIQUE ET LIBERTES</h1>
+			<h1>INFORMATIQUE ET LIBERTÉS</h1>
 			<h2>Informations personnelles collectées</h2>
 			<p>En France, les données personnelles sont notamment protégées par la
 			loi n° 78-87 du 6 janvier 1978, la loi n° 2004-801 du 6 août 2004,
@@ -691,7 +690,7 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 			dont il disposerait en tant qu’utilisateur du site Framasoft.</p>
 			<p>La modification interviendra dans des délais raisonnables à compter
 			de la réception de la demande de l’utilisateur.</p>
-			<h1>LIMITATION DE RESPONSABILITE</h1>
+			<h1>LIMITATION DE RESPONSABILITÉ</h1>
 			<p>Ce ste comporte des informations mises à disposition par des
 			sociétés externes ou des liens hypertextes vers d’autres sites qui
 			n’ont pas été développés par le Framasoft. Le contenu mis à disposition
@@ -719,12 +718,12 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 			cause la responsabilité civile et/ou pénale de l’utilisateur, notamment
 			en cas de message à caractère raciste, injurieux, diffamant, ou
 			pornographique, quel que soit le support utilisé (texte, photographie…).</p>
-			<h2>Limitations contractuelles sur les données techniques.</h2>
+			<h2>Limitations contractuelles sur les données techniques</h2>
 			<p>Framasoft ne pourra être tenue responsable de dommages matériels
 			liés à l’utilisation du site. De plus, l’utilisateur du site s’engage à
 			accéder au site en utilisant un matériel récent, ne contenant pas de
 			virus et avec un navigateur de dernière génération mis-à-jour</p>
-			<h2>Propriété intellectuelle.</h2>
+			<h2>Droit d'auteur et responsabilité</h2>
 			<p>Les contenus sont publiés sous la responsabilité des utilisateurs.</p>
 		
 	
@@ -741,8 +740,8 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
       <hr>
 
       <footer>
-		<p>Framastart est un service libre et gratuit proposé par l'association Framasoft. <a class="btn" data-toggle="modal" href="#Credits" >Contact &amp; Crédits</a> <a class="btn" data-toggle="modal" href="#Mentions" >A propos</a></p>
-        <p>Copyleft Framasoft 2012 - Sauf mention contraire, les textes sont placés sous licence Creative Commons BY-SA. </p>
+		<p>Framastart est un service libre et gratuit proposé par l'association Framasoft. <a class="btn" data-toggle="modal" href="#Credits">Contact &amp; Crédits</a> <a class="btn" data-toggle="modal" href="#Mentions">À propos</a></p>
+        <p>Copyleft Framasoft 2012-2014 - Sauf mention contraire, les textes sont placés sous licence Creative Commons BY-SA.</p>
       </footer>
 
     </div> <!-- /container -->
