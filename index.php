@@ -119,7 +119,7 @@
 			    <div class="fonction">Navigateur web</div>
 			    <div class="description">Rapide, sûr, fiable, extensible... Firefox est tout simplement le meilleur navigateur libre.</div>
 			    <div class="complements">
-			    	<a class="btn btn-success btn-large" href="http://www.mozilla.org/fr/firefox/new/">Site officiel</a>
+					<a class="btn btn-success btn-large" href="http://www.mozilla.org/fr/firefox/new/">Site officiel</a>
 			    </div>
 			  </div>
 		</div>
@@ -145,7 +145,7 @@
 			    <div class="fonction">Messagerie instantanée</div>
 			    <div class="description">Messagerie instantanée (tchat) multiprotocole (compatible MSN, Yahoo!, Google Talk, IRC, etc)</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.pidgin.im/">Site officiel</a>
-			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://adium.im/">Adium</a></span>
+					<span class="alert alert-info"><strong>Utilisateurs de OS X.</strong> Alternative recommandée : <a href="http://adium.im/">Adium</a></span>
 			    </div>
 			  </div>
 		</div>		
@@ -186,8 +186,7 @@
 			    <div class="fonction">Lecteur PDF</div>
 			    <div class="description">Visualisez rapidement vos fichiers PDF avec ce lecteur PDF très léger et réactif.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html">Site officiel</a>
-			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://okular.kde.org/">Okular</a> ou <a href="http://skim-app.sourceforge.net/">Skim</a></span>
-			    	
+					<span class="alert alert-info"><strong>Utilisateurs de OS X.</strong> Alternative recommandée : <a href="http://okular.kde.org/">Okular</a> ou <a href="http://skim-app.sourceforge.net/">Skim</a></span>
 			    </div>
 			  </div>
 		</div>
@@ -204,7 +203,7 @@
 			    <div class="fonction">Editeur d'images (bitmap)</div>
 			    <div class="description">Le roi des éditeurs d’images du monde du Libre. Retouchez facilement vos photos, faites vos propres montages, etc.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.gimp.org/">Site officiel</a>
-			    	<span class="alert alert-info">Vous pouvez aussi utiliser <a href="http://pinta-project.com/">Pinta</a>, beaucoup plus limité, mais plus simple à prendre en main.</span>	
+					<span class="alert alert-info">Vous pouvez aussi utiliser <a href="http://pinta-project.com/">Pinta</a>, beaucoup plus limité, mais plus simple à prendre en main.</span>	
 			    </div>
 			  </div>
 		</div>
@@ -285,9 +284,8 @@
 			    <div class="fonction">Compression et décompression de fichiers</div>
 			    <div class="description">Compressez vos fichiers et dossiers afin qu'ils occupent moins d'espace. Peazip sait bien évidemment extraire un grand nombre de fichiers compressés (ZIP, TAR.GZ, ACE, ARJ, CAB, DMG, ISO, LHA, RAR, etc.)</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://peazip.sourceforge.net/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>vous pouvez télécharger <a href="http://sourceforge.net/projects/peazip/files/4.6.1/peazip-plain-4.6.1.WINDOWS.exe/download">la version sans publicité</a>.</span>
-			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://www.kekaosx.com/fr/">Keka</a></span>
-
+					<span class="alert alert-success"><strong>Astuce : </strong>vous pouvez télécharger <a href="http://sourceforge.net/projects/peazip/files/4.6.1/peazip-plain-4.6.1.WINDOWS.exe/download">une version sans publicité</a>.</span>
+					<span class="alert alert-info"><strong>Utilisateurs de OS X.</strong> Alternative recommandée : <a href="http://www.kekaosx.com/fr/">Keka</a></span>
 			    </div>
 			  </div>
 		</div>
@@ -301,7 +299,7 @@
 			    <div class="fonction">Editeur de texte</div>
 			    <div class="description">Un éditeur de texte léger mais très puissant pouvant aussi servir comme environnement de développement (C, C++, HTML, PHP, JS, etc)</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://notepad-plus-plus.org/fr/">Site officiel</a>
-			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://projects.gnome.org/gedit/">gEdit</a>.</span>
+					<span class="alert alert-info"><strong>Utilisateurs de OS X.</strong> Alternative recommandée : <a href="https://wiki.gnome.org/Apps/Gedit">gEdit</a>.</span>
 			    </div>
 			  </div>
 		</div>
@@ -315,7 +313,7 @@
 			    <div class="fonction">Création de PDF</div>
 			    <div class="description">Transformez n'importe quel document en fichier PDF. CC PDF Converter ajoute une imprimante virtuelle à votre système Windows. Tout ce que vous y "imprimerez" sortira sous la forme d'un document PDF. Il permet également d'ajouter une licence <a href="http://fr.wikipedia.org/wiki/Creative_Commons">Creative Commons</a> à votre document.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.cogniview.com/cc-free-pdf-converter/">Site officiel</a>
-			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Pas d'alternative grand public dans le monde libre, malheureusement.</span>
+					<span class="alert alert-info"><strong>Utilisateurs de OS X.</strong> Pas d'alternative grand public dans le monde libre, malheureusement.</span>
 			    </div>
 			  </div>
 		</div>
@@ -329,7 +327,7 @@
 			    <div class="fonction">Gravure de CD & DVD</div>
 			    <div class="description">Gravez simplement et rapidement vos fichiers. InfraRecorder permet aussi la duplication/copie de CD ou DVD.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://infrarecorder.org/">Site officiel</a>
-			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://burn-osx.sourceforge.net/Pages/English/home.html">Burn</a></span>
+					<span class="alert alert-info"><strong>Utilisateurs de OS X.</strong> Alternative recommandée : <a href="http://burn-osx.sourceforge.net/Pages/English/home.html">Burn</a></span>
 			    </div>
 			  </div>
 		</div>
@@ -358,7 +356,7 @@
 			    <div class="fonction">Outil d’analyse statistique et graphique avancé.</div>
 			    <div class="description"></div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.r-project.org/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>vous pouvez utiliser <a href="http://rstudio.org/">RStudio</a> pour une plus grande facilité d'utilisation.</span>
+					<span class="alert alert-success"><strong>Astuce : </strong>vous pouvez utiliser <a href="http://rstudio.org/">RStudio</a> pour une plus grande facilité d'utilisation.</span>
 			    </div>
 			  </div>
 		</div>
@@ -384,7 +382,7 @@
 			    <div class="fonction">Gestion bibliographique</div>
 			    <div class="description"></div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.zotero.org/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>Zotero existe aussi en tant qu'<a href="https://addons.mozilla.org/fr/firefox/addon/zotero/" alt="extension Zotero Pour Firefox">extension pour Firefox</a>.</span>
+					<span class="alert alert-success"><strong>Astuce : </strong>Zotero existe aussi en tant qu'<a href="https://addons.mozilla.org/fr/firefox/addon/zotero/" alt="extension Zotero Pour Firefox">extension pour Firefox</a>.</span>
 			    </div>
 			  </div>
 		</div>
@@ -423,8 +421,7 @@
 			    <div class="fonction">Composition de documents</div>
 			    <div class="description">LaTeX est un langage qui permet d'obtenir des documents complexes de grande qualité (formules mathématiques, respect des règles typographiques, gestion des références bibliographiques, etc.). Idéal pour la rédaction d'une thèse.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.latex-project.org/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>Vous pouvez consulter l'ouvrage libre <a href="http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander" alt="Framabook LaTeX">"Tout (...) sur LaTeX"</a> dans la collection Framabook.</span>
-			    	
+					<span class="alert alert-success"><strong>Astuce : </strong>Vous pouvez consulter l'ouvrage libre <a href="http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander" alt="Framabook LaTeX">"Tout (...) sur LaTeX"</a> dans la collection Framabook.</span>
 			    </div>
 			  </div>
 		</div>
@@ -469,7 +466,7 @@
 			
 			<h3>Acheter un ordinateur.</h3>
 			
-			<p>Vous n'êtes pas obligé d'acheter un ordinateur (fixe ou portable) avec Microsoft Windows ou Mac OS de préinstallés si vous n'en n'avez pas l'utilité. Certains revendeurs proposent du matériel sans système d'exploitation, ou avec GNU/Linux préinstallé. Voir par exemple le site <a href="http://bons-vendeurs-ordinateurs.info/">http://bons-vendeurs-ordinateurs.info/</a></p>
+			<p>Vous n'êtes pas obligé d'acheter un ordinateur (fixe ou portable) avec Microsoft Windows ou OS X de préinstallés si vous n'en n'avez pas l'utilité. Certains revendeurs proposent du matériel sans système d'exploitation, ou avec GNU/Linux préinstallé. Voir par exemple le site <a href="http://bons-vendeurs-ordinateurs.info/">bons-vendeurs-ordinateurs.info</a></p>
 
 			<h3>Support</h3>
 			<p>Vous pourrez facilement trouver de l'aide pour les différents logiciels cités ci-dessus. Par exemple sur les forums des sites des logiciels en question, ou sur le <a href="http://forum.framasoft.org/viewforum.php?f=17">forum de Framasoft</a>.</p>
