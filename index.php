@@ -1,29 +1,30 @@
-
 <!DOCTYPE html>
 <html lang="fr">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>Framastart</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="Framasoft">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Découvrez les nombreux avantages des logiciels libres, ainsi que des logiciels libres phares pour vos usages les plus courants." />
+    <meta name="keywords" content="logiciel libre, courant, simple, avantages" />
+    <meta name="author" content="Framasoft" />
 
     <!-- Le styles -->
-    <link href="./bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="./bootstrap/css/bootstrap.css" rel="stylesheet" />
     <style type="text/css">
       body {
         padding-top: 60px;
         padding-bottom: 40px;
       }
     </style>
-    <link href="./bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="./bootstrap/css/bootstrap-responsive.css" rel="stylesheet" />
 
     <!-- Le fav and touch icons -->
+    <link rel="icon" href="./bootstrap/ico/favicon.ico">
     <link rel="shortcut icon" href="./bootstrap/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./bootstrap/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="./bootstrap/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./bootstrap/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="./bootstrap/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="./bootstrap/ico/apple-touch-icon-144-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="./bootstrap/ico/apple-touch-icon-114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="./bootstrap/ico/apple-touch-icon-72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" href="./bootstrap/ico/apple-touch-icon-57-precomposed.png" />
     <style type="text/css" media="all">
 		.thumbnail {
 			border: none !important;
@@ -37,7 +38,6 @@
 		#listesofts .fonction {font-weight: bold;}
 		#listesofts .description {margin-bottom:1em;}
 		#listesofts .endcat { clear:both; margin-bottom:6em;}
-				
 	</style>
 
 	
