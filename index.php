@@ -423,7 +423,7 @@
 			    <div class="fonction">Composition de documents</div>
 			    <div class="description">LaTeX est un langage qui permet d'obtenir des documents complexes de grande qualité (formules mathématiques, respect des règles typographiques, gestion des références bibliographiques, etc.). Idéal pour la rédaction d'une thèse.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.latex-project.org/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>Vous pouvez consulter l'ouvrage libre <a href="http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander" alt="Framabook LaTeX">"Tout (...) sur LaTeX"</a> dans la collection Framabook.</span>
+			    	<span class="alert alert-success"><strong>Astuce : </strong>Vous pouvez consulter l'ouvrage libre <a href="https://framabook.org/tout-sur-latex/" alt="Framabook LaTeX">"Tout (...) sur LaTeX"</a> dans la collection Framabook.</span>
 			    	
 			    </div>
 			  </div>
