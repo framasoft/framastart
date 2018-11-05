@@ -384,7 +384,7 @@
 			    <div class="fonction">Gestion bibliographique</div>
 			    <div class="description"></div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.zotero.org/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>Zotero existe aussi en tant qu'<a href="https://www.zotero.org/download/" alt="extension Zotero Pour Firefox">extension pour Firefox</a>.</span>
+			    	<span class="alert alert-success"><strong>Astuce : </strong>Zotero existe aussi en tant qu'<a href="https://www.zotero.org/download/" alt="extension Zotero pour navigateurs">extension pour navigateurs</a>.</span>
 			    </div>
 			  </div>
 		</div>
