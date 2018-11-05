@@ -28,24 +28,24 @@
 		.thumbnail {
 			border: none !important;
 		}
-		
+
 		.hero-unit {
 			background-color: #DDF;
 		}
-		
+
 		#listesofts .span12 {margin-top:3em;}
 		#listesofts .fonction {font-weight: bold;}
 		#listesofts .description {margin-bottom:1em;}
 		#listesofts .endcat { clear:both; margin-bottom:6em;}
-				
+
 	</style>
 
-	
+
   </head>
 
   <body>
 	<a name="top"></a>
- 
+
  	   <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
@@ -56,7 +56,7 @@
               <li><a href="#about" data-toggle="modal" >À propos</a></li>
 
             </ul>
-            
+
 			<ul class="nav">
 
 	              <li><a href="#internet"><i class="icon-globe"></i> Internet</a></li>
@@ -66,8 +66,8 @@
 	              <li><a href="#utilitaires"><i class="icon-wrench"></i> Utilitaires</a></li>
 	              <li><a href="#education"><i class="icon-pencil"></i> Éducation supérieure</a></li>
 				  <li><a href="#oslibre"><i class="icon-pencil"></i> Passez au libre !</a></li>
-			</ul>            
-            
+			</ul>
+
           </div>
         </div>
       </div>
@@ -77,7 +77,7 @@
     <div class="container">
      	<div style="float:right;"><a href="http://unpidf.univ-paris1.fr/"><img src="logos/logo_UNR.jpg" alt="UNR Paris Île-de-France"/></a></div>
       <div class="hero-unit">
- 
+
         <h1>Logiciels libres</h1>
         <p>Découvrez les nombreux avantages des logiciels libres, ainsi que les logiciels phares pour vos usages les plus courants.</p>
         <p style="font-size: 90%; color: #666">Ce site a été conçu pour les étudiants et personnels des Universités d'Île-de-France, en partenariat avec <a href="#about" data-toggle="modal" >Framasoft</a>.</p>
@@ -106,10 +106,10 @@
 	<div class="alert alert-success"><strong>Astuce Windows : </strong> vous pouvez aussi utiliser notre service <em><a href="http://framapack.org">Framapack</a></em> afin de télécharger plusieurs de ces applications facilement en une seule fois, plutôt que de passer par chaque site individuellement.</div>
 		<a name="internet"></a>
 	<div id="listesofts">
-		
+
 
 		<h2>Internet</h2>
-		
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/firefox_icon.png" alt="">
@@ -123,7 +123,7 @@
 			    </div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/thunderbird_icon.png" alt="">
@@ -135,7 +135,7 @@
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.mozilla.org/fr/thunderbird/">Site officiel</a></div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/pidgin_icon.png" alt="">
@@ -148,11 +148,11 @@
 			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://adium.im/">Adium</a></span>
 			    </div>
 			  </div>
-		</div>		
+		</div>
 
-		<div class="endcat"><a name="bureautique">&nbsp;</a></div>		
+		<div class="endcat"><a name="bureautique">&nbsp;</a></div>
 		<h2>Bureautique</h2>
-	 
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/libreoffice_icon.png" alt="">
@@ -164,7 +164,7 @@
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://fr.libreoffice.org/">Site officiel</a></div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/scribus_icon.png" alt="">
@@ -176,7 +176,7 @@
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.scribus.net/canvas/Scribus">Site officiel</a></div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/sumatrapdf_icon.png" alt="">
@@ -187,14 +187,14 @@
 			    <div class="description">Visualisez rapidement vos fichiers PDF avec ce lecteur PDF très léger et réactif.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html">Site officiel</a>
 			    	<span class="alert alert-info"><strong>Utilisateurs Mac.</strong> Alternative recommandée : <a href="http://okular.kde.org/">Okular</a> ou <a href="http://skim-app.sourceforge.net/">Skim</a></span>
-			    	
+
 			    </div>
 			  </div>
 		</div>
 
-		<div class="endcat"><a name="graphisme">&nbsp;</a></div>		
+		<div class="endcat"><a name="graphisme">&nbsp;</a></div>
 		<h2>Graphisme</h2>
-		
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/Gimp.png" alt="">
@@ -204,11 +204,11 @@
 			    <div class="fonction">Editeur d'images (bitmap)</div>
 			    <div class="description">Le roi des éditeurs d’images du monde du Libre. Retouchez facilement vos photos, faites vos propres montages, etc.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.gimp.org/">Site officiel</a>
-			    	<span class="alert alert-info">Vous pouvez aussi utiliser <a href="http://pinta-project.com/">Pinta</a>, beaucoup plus limité, mais plus simple à prendre en main.</span>	
+			    	<span class="alert alert-info">Vous pouvez aussi utiliser <a href="http://pinta-project.com/">Pinta</a>, beaucoup plus limité, mais plus simple à prendre en main.</span>
 			    </div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/inkscape_icon.png" alt="">
@@ -220,10 +220,10 @@
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://inkscape.org/?lang=fr">Site officiel</a></div>
 			  </div>
 		</div>
-	
-		<div class="endcat"><a name="sonvideo">&nbsp;</a></div>		
+
+		<div class="endcat"><a name="sonvideo">&nbsp;</a></div>
 		<h2>Son et vidéo</h2>
-		
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/vlc_icon.gif" alt="">
@@ -235,7 +235,7 @@
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.videolan.org/vlc/">Site officiel</a></div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/audacity_icon.png" alt="">
@@ -247,7 +247,7 @@
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://audacity.sourceforge.net/?lang=fr">Site officiel</a></div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/nightingale_icon.png" alt="">
@@ -258,8 +258,8 @@
 			    <div class="description">Nightingale est un logiciel de gestion de bibliothèque musicale.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://getnightingale.com/">Site officiel</a></div>
 			  </div>
-		</div>	
-	
+		</div>
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/avidemux_icon.png" alt="">
@@ -270,12 +270,12 @@
 			    <div class="description">Coupez, montez et remontez vos vidéos avec Avidemux. Puis convertissez-les dans le format de votre choix.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://fixounet.free.fr/avidemux/">Site officiel</a></div>
 			  </div>
-		</div>	
-		
-		
-		<div class="endcat"><a name="utilitaires">&nbsp;</a></div>		
+		</div>
+
+
+		<div class="endcat"><a name="utilitaires">&nbsp;</a></div>
 		<h2>Utilitaires</h2>
-		
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/peazip_icon.png" alt="">
@@ -291,7 +291,7 @@
 			    </div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/notepadplusplus_icon.png" alt="">
@@ -319,7 +319,7 @@
 			    </div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/infrarecorder_icon.png" alt="">
@@ -333,7 +333,7 @@
 			    </div>
 			  </div>
 		</div>
-		
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/filezilla_icon.png" alt="">
@@ -345,10 +345,10 @@
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://filezilla-project.org/">Site officiel</a></div>
 			  </div>
 		</div>
-	
-		<div class="endcat"><a name="education">&nbsp;</a></div>	
+
+		<div class="endcat"><a name="education">&nbsp;</a></div>
 		<h2>Éducation supérieure</h2>
-		
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/r_icon.png" alt="">
@@ -362,7 +362,7 @@
 			    </div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/qgis_icon.png" alt="">
@@ -384,11 +384,11 @@
 			    <div class="fonction">Gestion bibliographique</div>
 			    <div class="description"></div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.zotero.org/">Site officiel</a>
-			    	<span class="alert alert-success"><strong>Astuce : </strong>Zotero existe aussi en tant qu'<a href="https://addons.mozilla.org/fr/firefox/addon/zotero/" alt="extension Zotero Pour Firefox">extension pour Firefox</a>.</span>
+			    	<span class="alert alert-success"><strong>Astuce : </strong>Zotero existe aussi en tant qu'<a href="https://www.zotero.org/download/" alt="extension Zotero Pour Firefox">extension pour Firefox</a>.</span>
 			    </div>
 			  </div>
 		</div>
-	
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/graphviz_icon.png" alt="">
@@ -400,7 +400,7 @@
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.graphviz.org/">Site officiel</a></div>
 			  </div>
 		</div>
-		
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/scilab_logo.png" alt="">
@@ -413,7 +413,7 @@
 			  </div>
 		</div>
 
-		
+
 		<div class="span12">
 			<div class="thumbnails span2">
 			      <img src="./logos/latex_icon.png" alt="">
@@ -424,57 +424,57 @@
 			    <div class="description">LaTeX est un langage qui permet d'obtenir des documents complexes de grande qualité (formules mathématiques, respect des règles typographiques, gestion des références bibliographiques, etc.). Idéal pour la rédaction d'une thèse.</div>
 			    <div class="complements"><a class="btn btn-success btn-large" href="http://www.latex-project.org/">Site officiel</a>
 			    	<span class="alert alert-success"><strong>Astuce : </strong>Vous pouvez consulter l'ouvrage libre <a href="https://framabook.org/tout-sur-latex/" alt="Framabook LaTeX">"Tout (...) sur LaTeX"</a> dans la collection Framabook.</span>
-			    	
+
 			    </div>
 			  </div>
 		</div>
-				
-		<div class="endcat">&nbsp;</div>	
+
+		<div class="endcat">&nbsp;</div>
 	</div> <!-- /listesoft -->
 
 	<hr />
 	<a name="oslibre"></a>
 	<div class="oslibre well">
 		<h2>Et si vous passiez à GNU/Linux ?</h2>
-		
+
 			<p>Le mot Linux vous évoque peut-être des programmeurs barbus tapant du code obscur sur un écran noir. Bonne nouvelle ! Les choses ont changé.</p>
-			
-			
+
+
 			<h3>Le principe</h3>
-			
+
 			<p>
 
 			Linux est un <em>système d'exploitation</em>, un logiciel important qui contrôle un ordinateur. Il est semblable à Microsoft Windows, mais il est entièrement libre. Le vrai nom est <em>GNU/Linux</em>, mais "Linux" convient aussi.</p>
-			
+
 			<p>Linux n'est pas le produit d'une seule entreprise, mais plutôt de groupes d'entreprises et de particuliers qui collaborent ensemble. En fait, le système d'exploitation GNU/Linux est en quelque sorte une version générique, qui peut être déclinée en différents produits. Ces produits sont appellés <strong>des distributions</strong>.</p>
-			
+
 			<p>Ces distributions changent entièrement l'aspect et la fonction de Linux. Elles s'étendent du système complet (développé par des entreprises), pour des ordinateurs personnels ou des serveurs, à des systèmes légers (souvent développés par des volontaires) qui s'installent sur une clé mémoire USB ou sur de vieux ordinateurs.<br>
 			Une distribution performante et conviviale pour passer à Linux est <a href="http://ubuntu-fr.org/">Ubuntu</a>.</p>
-			
+
 			<h3>Utiliser Linux</h3>
-			
+
 
 			Linux n'est pas plus difficile à utiliser que Windows, et a beaucoup plus de possibilités. Il ne faut qu'une dizaine de minutes pour se familiariser à une distribution comme <a href="http://www.ubuntu-fr.org/" title="Ubuntu, La distribution GNU/Linux la plus facile d'accès">Ubuntu</a> ou <a href="http://www.fedora-fr.org/" title="Fedora, une distribution GNU/Linux un peu plus avancée">Fedora</a>, qui comportent beaucoup de programmes pré-installés.</p>
-			
-			<p>Si vous avez besoin de logiciels libres et gratuits pour éditer du texte, tableur, internet, réseau ou dessin et graphiques, tout y est. Vous en voulez plus ? Linux est à la hauteur. Il existe des centaines d'applications que vous pouvez installer et désinstaller de manière facile, sûre et ordonnée.</p>
-			
-			<p>Cependant, il ne faut pas penser que Linux est un clone de Windows. Pour savoir à quoi vous attendre, lisez la section <a href="http://www.getgnulinux.org/fr/switch_to_linux/">Migrer sous Linux</a> du site GetGnuLinux.org.</p>		
 
-<p><small><em>Texte issu du site <a href="http://www.getgnulinux.org/fr/switch_to_linux/">site getgnulinux.org</a>, licence CC-BY-SA version 2.0 ou ultérieure</em></small></p>					
+			<p>Si vous avez besoin de logiciels libres et gratuits pour éditer du texte, tableur, internet, réseau ou dessin et graphiques, tout y est. Vous en voulez plus ? Linux est à la hauteur. Il existe des centaines d'applications que vous pouvez installer et désinstaller de manière facile, sûre et ordonnée.</p>
+
+			<p>Cependant, il ne faut pas penser que Linux est un clone de Windows. Pour savoir à quoi vous attendre, lisez la section <a href="http://www.getgnulinux.org/fr/switch_to_linux/">Migrer sous Linux</a> du site GetGnuLinux.org.</p>
+
+<p><small><em>Texte issu du site <a href="http://www.getgnulinux.org/fr/switch_to_linux/">site getgnulinux.org</a>, licence CC-BY-SA version 2.0 ou ultérieure</em></small></p>
 
 		<h2>Obtenir de l'aide</h2>
-		
+
 			<p>Le logiciel libre repose avant tout sur le partage d'information et l'entraide entre utilisateurs.</p>
-			
-			
+
+
 			<h3>Acheter un ordinateur.</h3>
-			
+
 			<p>Vous n'êtes pas obligé d'acheter un ordinateur (fixe ou portable) avec Microsoft Windows ou Mac OS de préinstallés si vous n'en n'avez pas l'utilité. Certains revendeurs proposent du matériel sans système d'exploitation, ou avec GNU/Linux préinstallé. Voir par exemple le site <a href="http://bons-vendeurs-ordinateurs.info/">http://bons-vendeurs-ordinateurs.info/</a></p>
 
 			<h3>Support</h3>
 			<p>Vous pourrez facilement trouver de l'aide pour les différents logiciels cités ci-dessus. Par exemple sur les forums des sites des logiciels en question, ou sur le <a href="http://forum.framasoft.org/viewforum.php?f=17">forum de Framasoft</a>.</p>
 			<p> Par ailleurs, si vous avez besoin d'aide à l'installation de GNU/Linux ou dans la prise en main des logiciels, sachez qu'il existe de nombreux <a href="http://aful.org/gul/" alt="liste des GUL">Groupes d'Utilisateurs de Logiciels Libres</a> (GULL) : .</p>
-			<p>Enfin, sachez aussi que certains de ces GULL organisent organisent régulièrement des <em>install parties</em> ou des rendez-vous réguliers d'entraide où les utilisateurs les moins aguerris peuvent échanger <em>de visu</em> avec des utilisateurs plus avancés. Par exemple, vous pouvez participer aux <a href="http://ubuntu-party.org/" title="Ubuntu parties">Ubuntu parties</a> de l'association Ubuntu France, ou aux <a href="http://www.parinux.org/" title="Site Parinux">rencontres organisées par l'association Parinux</a> (les premiers samedis et troisièmes jeudis de chaque mois).</p>					
+			<p>Enfin, sachez aussi que certains de ces GULL organisent organisent régulièrement des <em>install parties</em> ou des rendez-vous réguliers d'entraide où les utilisateurs les moins aguerris peuvent échanger <em>de visu</em> avec des utilisateurs plus avancés. Par exemple, vous pouvez participer aux <a href="http://ubuntu-party.org/" title="Ubuntu parties">Ubuntu parties</a> de l'association Ubuntu France, ou aux <a href="http://www.parinux.org/" title="Site Parinux">rencontres organisées par l'association Parinux</a> (les premiers samedis et troisièmes jeudis de chaque mois).</p>
 	</div>
 
 
@@ -500,7 +500,7 @@
 			<li>la liberté de redistribuer des copies de façon à pouvoir aider votre voisin (liberté 2)  </li>
 			<li>la liberté d'améliorer le programme, et de diffuser vos améliorations au public, de façon à ce que l'ensemble de la communauté en tire avantage (liberté 3). L'accès au code source est une condition pour tout ceci  </li>
 		</ul>
-		<p>Avec un logiciel libre, vous avez le plat, la recette, le droit de redistribuer (ou de vendre) le plat, la recette, et même de la modifier.</p>	  	  
+		<p>Avec un logiciel libre, vous avez le plat, la recette, le droit de redistribuer (ou de vendre) le plat, la recette, et même de la modifier.</p>
 	    <p><small><em>Texte issu du <a href="http://www.april.org/articles/intro/ll.html">site de l'April</a>, licence LAL version 1.3 ou ultérieure, CC-BY-SA version 2.0 ou ultérieure et GNU FDL version 1.3 ou ultérieure.</em></small></p>
 	  </div>
 	  <div class="modal-footer">
@@ -588,10 +588,10 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 	  		<ul>
 	  			<li>L'annuaire Framasoft (plutôt orienté grand public)</li>
 	  			<li>Le site PLUME (plutôt orienté universités et recherche)</li>
-	  			<li>Les forges logicielles Sourceforge ou GitHub (en anglais)</li>	  			
-	  		</ul> 
+	  			<li>Les forges logicielles Sourceforge ou GitHub (en anglais)</li>
+	  		</ul>
 	  	</p>
-	  	
+
 	  	<p>Le mouvement du logiciel libre est constitué de nombreuses institutions (essentiellement des fondations, associations ou groupement d'entreprises), chacune avec ses spécificités. Il est parfois difficile de s'y retrouver, c'est pourquoi nous vous en communiquons une liste non-exhaustive :
 	  		<ul>
 	  			<li><a href="http://april.org" alt="site web">April</a> (promotion et défense du logiciel libre)</li>
@@ -603,15 +603,15 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 	  			<li><a href="http://linuxfr.org" alt="site web">Linuxfr</a> (site d'information - parfois technique - autour de GNU/Linux et du logiciel libre)</li>
 	  			<li><a href="http://libreacces.org" alt="site web">Libre Accès</a> (promotion de la Culture libre)</li>
 	  			<li><a href="http://laquadrature.net" alt="site web">La Quadrature du Net</a> (information et défense sur le sujet des libertés - numériques, mais pas seulement)</li>
-	  			<li><a href="http://wikimedia.fr" alt="site web">Wikimédia France</a> (chapitre français de la Wikimédia Foundation, qui structure notamment le projet d'enclyclopédie Wikipédia)</li> 			
-	  		</ul> 
+	  			<li><a href="http://wikimedia.fr" alt="site web">Wikimédia France</a> (chapitre français de la Wikimédia Foundation, qui structure notamment le projet d'enclyclopédie Wikipédia)</li>
+	  		</ul>
 	  	</p>
 	  	<p>Par ailleurs, il existe près d'une centaine de <a href="http://aful.org/gul/" alt="liste des GUL">"Groupes d'utilisateurs de Logiciels Libres"</a> (GULL), en France (métropole, DOM-TOM).</p>
-	  		
+
 	  	<p>Pour en apprendre plus sur ce mouvement social, et non seulement technique, vous pouvez vous référer au <a href="http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre" alt="Framabook RMS">Framabook "Richard Stallman et la révolution du logiciel libre"</a>.<br />
 	  		Vous pouvez aussi consulter les guides de l'April : <a href="http://www.april.org/Catalogue_Libre">26 logiciels libres à découvrir</a> et <a href="http://www.april.org/publication-du-guide-libre-association">"Guide Libre Association" </a>.
-	  	</p>	  		
-	  	</p>  	
+	  	</p>
+	  	</p>
 	</div>
 	  <div class="modal-footer">
 	    <a href="#" class="btn" data-dismiss="modal">Fermer</a>
@@ -642,7 +642,7 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 		</div>
 		<div class="modal-body">
 
-		
+
 			<h2>Editeur</h2>
 			<h3>Framasoft</h3>
 			<p>Association loi 1901 déclarée en sous-préfecture d’Arles le 2
@@ -726,8 +726,8 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 			virus et avec un navigateur de dernière génération mis-à-jour</p>
 			<h2>Propriété intellectuelle.</h2>
 			<p>Les contenus sont publiés sous la responsabilité des utilisateurs.</p>
-		
-	
+
+
 
 
 		</div>
@@ -746,8 +746,8 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
       </footer>
 
     </div> <!-- /container -->
-    
-    
+
+
 
 
     <!-- Le javascript
@@ -769,13 +769,13 @@ Issu du monde éducatif, <strong>Framasoft</strong> est un réseau de sites web 
 	<script src="./bootstrap/js/bootstrap-typeahead.js"></script>
 	<script src="./js/jquery.localscroll-min.js"></script>
 	<script src="./js/jquery.scrollTo-min.js"></script>
-	
+
 		<script type="text/javascript">
-		
+
 		$(document).ready(function() {
 		  $.localScroll();
 		});
-		
+
 	</script>
 <script type="text/javascript">
 
@@ -792,8 +792,7 @@ _paq.push(["enableLinkTracking"]);
 	      g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
 })();
 /** Fin Piwik **/
-</script>	
-	
+</script>
+
   </body>
 </html>
-
